@@ -14,7 +14,7 @@
 在 Asus Merlin 路由器的 SSH 中运行以下命令即可自动安装：
 
 ```sh
-wget -O - https://raw.githubusercontent.com/Mao2334/ddns-go-installer/master/install.sh | sh
+wget -O - https://raw.githubusercontent.com/Mao2334/ddns-go-installer/master/ddns-go-install.sh | sh
 ```
 
 ### 环境要求
